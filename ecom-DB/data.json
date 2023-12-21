@@ -1,0 +1,40 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"iphone 15",
+            "color":"titenium",
+            "price":140000,
+            "category":"mobile",
+            "image":"https://img-prd-pim.poorvika.com/cdn-cgi/image/width=500,height=500,quality=75/product/Apple-iphone-15-pro-max-natural-titanium-256-Front-Back-Side-View.png"
+
+        },
+        {
+            "id":2,
+            "name":"puma sneaker",
+            "color":"red",
+            "price":50000,
+            "category":"shoe",
+            "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/306864/03/fnd/IND/fmt/png/Ferrari-Drift-Cat-Delta-Unisex-Sneakers"
+
+        },
+        {
+            "id":3,
+            "name":"t-shirt",
+            "color":"black",
+            "price":5000,
+            "category":"cloth",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4RYTe41KkHF2hwTV7Axyqpacja2u4wQV1RA&usqp=CAU"
+
+        },
+        {
+            "id":4,
+            "name":"ipods",
+            "color":"white",
+            "price":10000,
+            "category":"pods",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB54ZHroiFp0JRQz2FSWWdFEEooCIyazwZ0V6LLuB3CTS2-5zn4EmNsdk4iMYO9NUlB5U&usqp=CAU"
+
+        }
+    ]
+}
